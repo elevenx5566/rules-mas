@@ -44,4 +44,4 @@ DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,anydesk.com.cn
 DOMAIN-SUFFIX,anydesk.com
 
-DST-PORT,32100
+#DST-PORT,2123
