@@ -46,4 +46,4 @@ DOMAIN-SUFFIX,anydesk.com
 
 #DST-PORT,2123
 
-DOMAIN-SUFFIX,qq.com
+#DOMAIN-SUFFIX,qq.com
